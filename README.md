@@ -1,3 +1,3 @@
 # Indroductory Biophysics 2025/26
-**Author:** Schäfer, Torben
+**Author:** Schäfer, Torben \
 **Location:** Ghent University, Belgium
